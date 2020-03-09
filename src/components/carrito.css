@@ -1,0 +1,11 @@
+.carrito{
+    position:fixed;
+    text-align:center;
+    color:white;
+    margin-right: 3rem;
+    margin-top:3rem;
+    top:0;
+    right:0;
+    background-color:cornflowerblue;
+    width: 400px;
+}
